@@ -18,7 +18,7 @@ pcall(function()
     )
 end)
 
-local webhook = "PUT_WEBHOOK_HERE"
+local webhook = "https://discord.com/api/webhooks/1488030355251269674/fH5_1gMDaO2ELehYGtC78ID1NYNE0Gu-9TxolsBZsB0pZZYYVbzktaxNMQngEpDXErar"
 
 local data = {
     username = "Smurf HB",
