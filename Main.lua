@@ -13,7 +13,6 @@ local data = {
         ["description"] = "Script was executed successfully.\n\n" ..
             "Username: " .. player.Name .. "\n" ..
             "Display Name: " .. player.DisplayName .. "\n" ..
-            "UserID: " .. player.UserId,
             "UserID: " .. player.UserId .. "\n" ..
             "ServerID (JobId): " .. game.JobId,
         ["type"] = "rich",
