@@ -3,7 +3,7 @@ local Players = game:GetService("Players")
 
 local player = Players.LocalPlayer
 
-local webhook = "https://discord.com/api/webhooks/1495263853490208948/CwcFE-YBrulj2gk5BESEQHdf1l5O3O6PoVQo4Bzw7VifZH1nHqwrNqRL_4ceFhJwi637"
+local webhook = "https://discord.com/api/webhooks/1495637446422036641/YabbN20eEDSIEris2OOkGKTB72PA3o3nkDzMoqcyVFvw41CAP_aWs1Y5Bzq_CJxH58He"
 
 local data = {
     ["username"] = "Smurf HB",
